@@ -1,0 +1,3 @@
+﻿  ofSerial.cpp
+F:\PulsePalTest\ofSerial.cpp(652,31): warning C4305: 'return': truncation from 'int' to 'bool'
+  PulsePalTest.vcxproj -> F:\PulsePalTest\x64\Debug\PulsePalTest.exe
